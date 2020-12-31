@@ -19,4 +19,16 @@ public class SeleniumTest
     {
         System.out.println("elementsUi");
     }
+
+    @Test
+    public void elementsU1i()
+    {
+        System.out.println("elementfdsUi");
+    }
+
+    @Test
+    public void elementsU1ssi()
+    {
+        System.out.println("elementfdsUi");
+    }
 }
